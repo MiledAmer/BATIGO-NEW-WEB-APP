@@ -28,6 +28,7 @@ export default tseslint.config(
         { varsIgnorePattern: '^_$', argsIgnorePattern: '^_$' }
       ],
       '@typescript-eslint/no-explicit-any': 'error',
+      'no-console': 'error'
     },
   },
 )
