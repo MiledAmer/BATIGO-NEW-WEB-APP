@@ -24,7 +24,7 @@ function RouteComponent() {
           <img 
             src={Batigoicon}
             alt="Batigo ICON"
-            className='h-6'
+            className='h-9'
           />
         </a>
       </div>
